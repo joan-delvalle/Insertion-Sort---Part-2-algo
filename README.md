@@ -1,1 +1,1 @@
-# Insertion-Sort---Part-2-algo
+# Insertion-Sort---Part-2-algo The function sorts the array one element at a time by inserting each element into its correct position in the already sorted part. After placing each element, it prints the array to show how the list gradually becomes sorted.
